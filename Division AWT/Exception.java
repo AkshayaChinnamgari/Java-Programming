@@ -1,4 +1,3 @@
-package java510;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
